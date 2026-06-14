@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AdaptSwish: Source Code and Experimental Implementation"
+authors:
+  - family-names: "Aliakbarpoor"
+    given-names: "Yasaman"
+version: "1.0.0"
+date-released: "2026-06-14"
+url: "https://github.com/Yassiaap/AdaptSwish"
+repository-code: "https://github.com/Yassiaap/AdaptSwish"
